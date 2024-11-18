@@ -1,2 +1,3 @@
 # jetbrains ide
 .idea
+*.xml
